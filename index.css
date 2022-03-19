@@ -37,7 +37,9 @@ ul{
     text-align: left;
     margin:50px auto;
 }
-
+.year{
+    font-weight: 700;
+}
 .quote{
     font-style: italic;
     padding: 10px 50px;
@@ -46,7 +48,9 @@ ul{
     margin: 50px auto;
 }
 
-
+.quote > p{
+    font-size: 20px;
+}
 
 #footer p{
     font-size: 28px;
